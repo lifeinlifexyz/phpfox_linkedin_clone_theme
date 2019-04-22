@@ -1,3 +1,7 @@
+<h2>Paid Support:</h2>       
+<p>The phpfox apps and themes by codemake are provided under the MIT license with no commercial support or liability. 
+<a href="mailto:phpfox@lifeinlife.xyz">phpfox@lifeinlife.xyz</a> also provides commercial support and professional customisation services.</p>
+
 <h1>PHPFox LinkedIn Clone Theme:</h1>
 
 LinkedIn Clone Template is a clean, responsive theme that’s versatile and easy to use. Suitable for both corporate and creative businesses, this clone of LinkedIn design gives you maximum flexibility, smooth, simple transitions give the theme finesse while maintaining a professional look.
